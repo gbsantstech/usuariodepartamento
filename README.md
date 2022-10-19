@@ -23,7 +23,10 @@ Nele nós fizemos o GET e o POST, ou seja, buscamos o funcionário e também ins
 
 ## H2Database:
 ![H2Database](https://github.com/gbsantstech/usuariodepartamento/blob/master/assets/projeto_h2_console.png)
+
 ## Postman:
+![GET](https://github.com/gbsantstech/usuariodepartamento/blob/master/assets/projeto_postman_get.png)
+![POST](https://github.com/gbsantstech/usuariodepartamento/blob/master/assets/projeto_postman_post.png)
 
 ## Autor:
 Gabriel Santos
